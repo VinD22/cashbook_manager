@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/credit"
+        android:icon="@drawable/add"
+        android:title="@string/credit"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/all_transactions"
+        android:icon="@drawable/all_transactions"
+        android:title="@string/all_transactions"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/debit"
+        android:title="@string/debit"
+        app:showAsAction="always"
+        android:icon="@drawable/subtract"
+        />
+
+</menu>

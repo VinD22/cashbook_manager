@@ -1,0 +1,29 @@
+<resources>
+    <string name="action_settings">تنظیمات</string>
+    <string name="about_app">یک برنامه برای مدیریت معاملات نقدی خود به شیوه ای امن و ایمن</string>
+    <string name="update_key">به روز رسانی کلید</string>
+    <string name="check_my_other_apps">سایر برنامه ها را بررسی کنید</string>
+    <string name="share_app">تقسیم برنامه</string>
+    <string name="rate_app">برنامه کاربردی</string>
+    <string name="enter_app_key">کلید ورود</string>
+    <string name="save">صرفه جویی</string>
+    <string name="enter">نوع کلیدی</string>
+    <string name="re_enter_key">تایپ دوباره</string>
+    <string name="empty_fields">خالی درست</string>
+    <string name="keys_should_be_same">کلید باید همان باشد</string>
+    <string name="incorrect_key_entered">کلید اشتباه وارد شده است</string>
+    <string name="share">اشتراک گذاری</string>
+    <string name="enter_transaction_details">جزئیات تراکنش را وارد کنید</string>
+    <string name="enter_amount">مقدار را وارد کنید</string>
+    <string name="add_transaction">اضافه کردن معامله</string>
+    <string name="additional_info">اطلاعات اضافی را وارد کنید</string>
+    <string name="select_date">انتخاب تاریخ</string>
+    <string name="amount_credited">مقدار اعتبار</string>
+    <string name="no">نه</string>
+    <string name="yes">بله</string>
+    <string name="delete_transaction">حذف تراکنش</string>
+    <string name="confirm_delete">آیا مطمئن هستید که می خواهید این معامله را حذف کنید؟</string>
+    <string name="credit">اعتبار</string>
+    <string name="debit">بدهی</string>
+    <string name="all_transactions">تمام معاملات</string>
+</resources>

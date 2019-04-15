@@ -1,0 +1,29 @@
+<resources>
+    <string name="action_settings">impostazioni</string>
+    <string name="about_app">Un\'applicazione per gestire le transazioni in denaro in modo sicuro e sicuro</string>
+    <string name="update_key">Chiave di aggiornamento</string>
+    <string name="check_my_other_apps">Controllare altre applicazioni</string>
+    <string name="share_app">Condividi applicazione</string>
+    <string name="rate_app">Valutazione applicazione</string>
+    <string name="enter_app_key">Tasto Invio</string>
+    <string name="save">Salvare</string>
+    <string name="enter">tipo chiave</string>
+    <string name="re_enter_key">digitare nuovamente</string>
+    <string name="empty_fields">campo vuoto</string>
+    <string name="keys_should_be_same">Le chiavi devono essere uguali</string>
+    <string name="incorrect_key_entered">La chiave non corretta è stata inserita</string>
+    <string name="share">Condividere</string>
+    <string name="enter_transaction_details">Inserisci i dettagli delle transazioni</string>
+    <string name="enter_amount">Inserire l\'importo</string>
+    <string name="add_transaction">Aggiungi transazione</string>
+    <string name="additional_info">Inserisci ulteriori informazioni</string>
+    <string name="select_date">Seleziona Data</string>
+    <string name="amount_credited">Importo accreditato</string>
+    <string name="no">no</string>
+    <string name="yes">si</string>
+    <string name="delete_transaction">Elimina transazione</string>
+    <string name="confirm_delete">Sei sicuro di voler eliminare questa transazione?</string>
+    <string name="credit">Credito</string>
+    <string name="debit">Addebito</string>
+    <string name="all_transactions">Tutte le transazioni</string>
+</resources>

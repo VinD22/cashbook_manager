@@ -1,0 +1,29 @@
+<resources>
+    <string name="action_settings">設定</string>
+    <string name="about_app">現金取引を安全かつ安全に管理するためのアプリケーション</string>
+    <string name="update_key">更新キー</string>
+    <string name="check_my_other_apps">他のアプリケーションをチェックする</string>
+    <string name="share_app">アプリケーションの共有</string>
+    <string name="rate_app">アプリケーション</string>
+    <string name="enter_app_key">キーを入力してください</string>
+    <string name="save">セーブ</string>
+    <string name="enter">タイプキー</string>
+    <string name="re_enter_key">再度入力</string>
+    <string name="empty_fields">空のフィールド</string>
+    <string name="keys_should_be_same">キーは同じである必要があります</string>
+    <string name="incorrect_key_entered">間違ったキーが入力されました</string>
+    <string name="share">シェア</string>
+    <string name="enter_transaction_details">取引の詳細を入力</string>
+    <string name="enter_amount">金額を入力します</string>
+    <string name="add_transaction">トランザクションの追加</string>
+    <string name="additional_info">追加情報を入力</string>
+    <string name="select_date">日付を選択</string>
+    <string name="amount_credited">クレジットされた金額</string>
+    <string name="no">いいえ</string>
+    <string name="yes">はい</string>
+    <string name="delete_transaction">トランザクションの削除</string>
+    <string name="confirm_delete">この取引を削除してもよろしいですか？</string>
+    <string name="credit">クレジット</string>
+    <string name="debit">デビット</string>
+    <string name="all_transactions">全取引</string>
+</resources>

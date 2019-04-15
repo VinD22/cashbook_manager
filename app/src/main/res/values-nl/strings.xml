@@ -1,0 +1,29 @@
+<resources>
+    <string name="action_settings">instellingen</string>
+    <string name="about_app">Een aanvraag om uw geldtransacties veilig en veilig te beheren</string>
+    <string name="update_key">Update sleutel</string>
+    <string name="check_my_other_apps">Controleer andere toepassingen</string>
+    <string name="share_app">Share-applicatie</string>
+    <string name="rate_app">Beoordeel toepassing</string>
+    <string name="enter_app_key">Enter toets</string>
+    <string name="save">Save</string>
+    <string name="enter">Type Key</string>
+    <string name="re_enter_key">Typ opnieuw</string>
+    <string name="empty_fields">Leeg veld</string>
+    <string name="keys_should_be_same">Toetsen moeten hetzelfde zijn</string>
+    <string name="incorrect_key_entered">Incorrecte sleutel ingevoerd</string>
+    <string name="share">Delen</string>
+    <string name="enter_transaction_details">Voer transactiegegevens in</string>
+    <string name="enter_amount">Voer een bedrag in</string>
+    <string name="add_transaction">Transactie toevoegen</string>
+    <string name="additional_info">Voer extra informatie in</string>
+    <string name="select_date">Selecteer Datum</string>
+    <string name="amount_credited">Bedrag gecrediteerd</string>
+    <string name="no">Nee</string>
+    <string name="yes">Ja</string>
+    <string name="delete_transaction">Transactie verwijderen</string>
+    <string name="confirm_delete">Weet u zeker dat u deze transactie wilt verwijderen?</string>
+    <string name="credit">Credit</string>
+    <string name="debit">Debiteren</string>
+    <string name="all_transactions">Alle transacties</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="action_settings">Einstellungen</string>
+    <string name="about_app">Eine Anwendung, um Ihre Bargeldtransaktionen sicher und sicher zu verwalten</string>
+    <string name="update_key">Schlüssel aktualisieren</string>
+    <string name="check_my_other_apps">Überprüfen Sie andere Anwendungen</string>
+    <string name="share_app">Teilen Sie die Anwendung</string>
+    <string name="rate_app">Bewerte die Bewerbung</string>
+    <string name="enter_app_key">Enter-Taste</string>
+    <string name="save">sparen</string>
+    <string name="enter">Typenschlüssel</string>
+    <string name="re_enter_key">Tippe nochmal</string>
+    <string name="empty_fields">Leeres Feld</string>
+    <string name="keys_should_be_same">Schlüssel sollten gleich sein</string>
+    <string name="incorrect_key_entered">Falscher Schlüssel eingegeben</string>
+    <string name="share">Aktie</string>
+    <string name="enter_transaction_details">Geben Sie die Transaktionsdetails ein</string>
+    <string name="enter_amount">Menge eingeben</string>
+    <string name="add_transaction">Transaktion hinzufügen</string>
+    <string name="additional_info">Geben Sie zusätzliche Informationen ein</string>
+    <string name="select_date">Datum auswählen</string>
+    <string name="amount_credited">Betrag gutgeschrieben</string>
+    <string name="no">Nein</string>
+    <string name="yes">Ja</string>
+    <string name="delete_transaction">Transaktion löschen</string>
+    <string name="confirm_delete">Sind Sie sicher, dass Sie diese Transaktion löschen möchten?</string>
+    <string name="credit">Kredit</string>
+    <string name="debit">Lastschrift</string>
+    <string name="all_transactions">Alle Transaktionen</string>
+</resources>

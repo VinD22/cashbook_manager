@@ -1,0 +1,29 @@
+<resources>
+    <string name="action_settings">настройки</string>
+    <string name="about_app">Приложение для безопасного и безопасного управления вашими денежными транзакциями</string>
+    <string name="update_key">Обновить ключ</string>
+    <string name="check_my_other_apps">Проверка других приложений</string>
+    <string name="share_app">Поделиться заявкой</string>
+    <string name="rate_app">Оценка скорости</string>
+    <string name="enter_app_key">Введите ключ</string>
+    <string name="save">Сохранить</string>
+    <string name="enter">Тип ключа</string>
+    <string name="re_enter_key">Введите снова</string>
+    <string name="empty_fields">пустое поле</string>
+    <string name="keys_should_be_same">Ключи должны быть одинаковыми</string>
+    <string name="incorrect_key_entered">Неверный ввод ключа</string>
+    <string name="share">Поделиться</string>
+    <string name="enter_transaction_details">Введите данные транзакции</string>
+    <string name="enter_amount">Введите сумму</string>
+    <string name="add_transaction">Добавить транзакцию</string>
+    <string name="additional_info">Введите дополнительную информацию</string>
+    <string name="select_date">Выберите дату</string>
+    <string name="amount_credited">Сумма, начисленная</string>
+    <string name="no">нет</string>
+    <string name="yes">да</string>
+    <string name="delete_transaction">Удалить транзакцию</string>
+    <string name="confirm_delete">Вы действительно хотите удалить эту транзакцию?</string>
+    <string name="credit">кредит</string>
+    <string name="debit">Дебет</string>
+    <string name="all_transactions">Все транзакции</string>
+</resources>

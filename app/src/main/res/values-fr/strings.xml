@@ -1,0 +1,29 @@
+<resources>
+    <string name="action_settings">Paramètres</string>
+    <string name="about_app">Une application pour gérer vos transactions en espèces de manière sûre et sécurisée</string>
+    <string name="update_key">Clé de mise à jour</string>
+    <string name="check_my_other_apps">Vérifiez d\'autres applications</string>
+    <string name="share_app">Partager l\'application</string>
+    <string name="rate_app">Application tarifaire</string>
+    <string name="enter_app_key">La touche Entrée</string>
+    <string name="save">sauvegarder</string>
+    <string name="enter">Type de clé</string>
+    <string name="re_enter_key">retaper</string>
+    <string name="empty_fields">Champ vide</string>
+    <string name="keys_should_be_same">Les clés devraient être identiques</string>
+    <string name="incorrect_key_entered">Entrée de la clé incorrecte</string>
+    <string name="share">Partager</string>
+    <string name="enter_transaction_details">Entrez les détails de la transaction</string>
+    <string name="enter_amount">Entrer le montant</string>
+    <string name="add_transaction">Ajouter une transaction</string>
+    <string name="additional_info">Entrez des informations supplémentaires</string>
+    <string name="select_date">Sélectionnez la date</string>
+    <string name="amount_credited">Montant crédité</string>
+    <string name="no">Non</string>
+    <string name="yes">Oui</string>
+    <string name="delete_transaction">Supprimer la transaction</string>
+    <string name="confirm_delete">Êtes-vous sûr de vouloir supprimer cette transaction?</string>
+    <string name="credit">Crédit</string>
+    <string name="debit">Débit</string>
+    <string name="all_transactions">toutes transactions</string>
+</resources>

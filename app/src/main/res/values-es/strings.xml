@@ -1,0 +1,29 @@
+<resources>
+    <string name="action_settings">Ajustes</string>
+    <string name="about_app">Una aplicación para administrar sus transacciones en efectivo de una manera segura</string>
+    <string name="update_key">Clave de actualización</string>
+    <string name="check_my_other_apps">Comprobar otras aplicaciones</string>
+    <string name="share_app">Compartir Aplicación</string>
+    <string name="rate_app">Aplicación de tarifas</string>
+    <string name="enter_app_key">Introducir clave</string>
+    <string name="save">Salvar</string>
+    <string name="enter">tipo de clave</string>
+    <string name="re_enter_key">Escriba otra vez</string>
+    <string name="empty_fields">Campo vacío</string>
+    <string name="keys_should_be_same">Las claves deben ser las mismas</string>
+    <string name="incorrect_key_entered">Tecla incorrecta introducida</string>
+    <string name="share">Compartir</string>
+    <string name="enter_transaction_details">Introduzca los detalles de la transacción</string>
+    <string name="enter_amount">Introduzca la cantidad</string>
+    <string name="add_transaction">Añadir transacción</string>
+    <string name="additional_info">Introducir información adicional</string>
+    <string name="select_date">Seleccione fecha</string>
+    <string name="amount_credited">Cantidad acreditada</string>
+    <string name="no">no</string>
+    <string name="yes">Sí</string>
+    <string name="delete_transaction">Eliminar transacción</string>
+    <string name="confirm_delete">¿Seguro que desea eliminar esta transacción?</string>
+    <string name="credit">Crédito</string>
+    <string name="debit">Débito</string>
+    <string name="all_transactions">Todas las transacciones</string>
+</resources>

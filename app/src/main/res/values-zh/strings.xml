@@ -1,0 +1,29 @@
+<resources>
+    <string name="action_settings">设置</string>
+    <string name="about_app">以安全可靠的方式管理您的现金交易的应用程序</string>
+    <string name="update_key">更新密钥</string>
+    <string name="check_my_other_apps">检查其他应用程序</string>
+    <string name="share_app">分享申请</string>
+    <string name="rate_app">价格申请</string>
+    <string name="enter_app_key">回车键</string>
+    <string name="save">保存</string>
+    <string name="enter">主要类型</string>
+    <string name="re_enter_key">再次键入</string>
+    <string name="empty_fields">空场</string>
+    <string name="keys_should_be_same">钥匙应该是一样的</string>
+    <string name="incorrect_key_entered">输入的密钥不正确</string>
+    <string name="share">分享</string>
+    <string name="enter_transaction_details">输入交易详情</string>
+    <string name="enter_amount">输入金额</string>
+    <string name="add_transaction">添加事务</string>
+    <string name="additional_info">输入其他信息</string>
+    <string name="select_date">选择日期</string>
+    <string name="amount_credited">金额记入</string>
+    <string name="no">没有</string>
+    <string name="yes">是</string>
+    <string name="delete_transaction">删除交易</string>
+    <string name="confirm_delete">您确定要删除此交易吗？</string>
+    <string name="credit">信用</string>
+    <string name="debit">借方</string>
+    <string name="all_transactions">所有交易</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="action_settings">asetukset</string>
+    <string name="about_app">Sovellus hallita käteismaksuja turvallisella tavalla</string>
+    <string name="update_key">Päivitä avain</string>
+    <string name="check_my_other_apps">Tarkista muut sovellukset</string>
+    <string name="share_app">Jaa sovellus</string>
+    <string name="rate_app">Arvioi sovellus</string>
+    <string name="enter_app_key">Enter-näppäin</string>
+    <string name="save">Tallentaa</string>
+    <string name="enter">tyyppi Key</string>
+    <string name="re_enter_key">Tyyppi Jälleen</string>
+    <string name="empty_fields">tyhjään kenttään</string>
+    <string name="keys_should_be_same">Avainten tulee olla samat</string>
+    <string name="incorrect_key_entered">Virheellinen avain tuli</string>
+    <string name="share">Jaa</string>
+    <string name="enter_transaction_details">Anna tapahtumatiedot</string>
+    <string name="enter_amount">Anna summa</string>
+    <string name="add_transaction">Lisää tapahtuma</string>
+    <string name="additional_info">Anna lisätietoja</string>
+    <string name="select_date">Valitse Päivämäärä</string>
+    <string name="amount_credited">Summa on hyväksytty</string>
+    <string name="no">Ei</string>
+    <string name="yes">Joo</string>
+    <string name="delete_transaction">Poista tapahtuma</string>
+    <string name="confirm_delete">Haluatko varmasti poistaa tämän tapahtuman?</string>
+    <string name="credit">Luotto</string>
+    <string name="debit">Veloittaa</string>
+    <string name="all_transactions">Kaikki tapahtumat</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "702919835194",
+    "firebase_url": "https://cash-book-manager.firebaseio.com",
+    "project_id": "cash-book-manager",
+    "storage_bucket": "cash-book-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702919835194:android:e2825ae20b00b693",
+        "android_client_info": {
+          "package_name": "manager.book.cash.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702919835194-4scnal5eksld3egpmma954raleiter1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzMkFB9VYbrvJbU_AjhhPLPP9ysahW-xA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

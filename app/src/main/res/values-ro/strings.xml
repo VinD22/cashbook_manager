@@ -1,0 +1,29 @@
+<resources>
+    <string name="action_settings">Setări</string>
+    <string name="about_app">O aplicație pentru gestionarea tranzacțiilor cu numerar într-un mod sigur și sigur</string>
+    <string name="update_key">Tasta de actualizare</string>
+    <string name="check_my_other_apps">Verificați alte aplicații</string>
+    <string name="share_app">Trimiteți aplicația</string>
+    <string name="rate_app">Evaluați aplicația</string>
+    <string name="enter_app_key">Introduce cheia</string>
+    <string name="save">Salvați</string>
+    <string name="enter">Tip cheie</string>
+    <string name="re_enter_key">Tip nou</string>
+    <string name="empty_fields">câmp gol</string>
+    <string name="keys_should_be_same">Cheile ar trebui să fie identice</string>
+    <string name="incorrect_key_entered">Tasta incorectă introdusă</string>
+    <string name="share">Acțiune</string>
+    <string name="enter_transaction_details">Introduceți detaliile tranzacției</string>
+    <string name="enter_amount">Introduceți suma</string>
+    <string name="add_transaction">Adăugați o tranzacție</string>
+    <string name="additional_info">Introduceți informații suplimentare</string>
+    <string name="select_date">Selectați data</string>
+    <string name="amount_credited">Sumă Creditată</string>
+    <string name="no">Nu</string>
+    <string name="yes">da</string>
+    <string name="delete_transaction">Ștergeți tranzacția</string>
+    <string name="confirm_delete">Sigur doriți să ștergeți această tranzacție?</string>
+    <string name="credit">Credit</string>
+    <string name="debit">Debit</string>
+    <string name="all_transactions">Toate tranzacțiile</string>
+</resources>

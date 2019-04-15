@@ -1,0 +1,29 @@
+<resources>
+    <string name="action_settings">Nastavení</string>
+    <string name="about_app">Aplikace pro správu hotovostních transakcí bezpečným a bezpečným způsobem</string>
+    <string name="update_key">Klíč aktualizace</string>
+    <string name="check_my_other_apps">Zkontrolujte ostatní aplikace</string>
+    <string name="share_app">Sdílet aplikaci</string>
+    <string name="rate_app">Hodnotit aplikaci</string>
+    <string name="enter_app_key">Zadejte klíč</string>
+    <string name="save">Uložit</string>
+    <string name="enter">Typ Key</string>
+    <string name="re_enter_key">Sem znovu</string>
+    <string name="empty_fields">prázdná pole</string>
+    <string name="keys_should_be_same">Klávesy by měly být stejné</string>
+    <string name="incorrect_key_entered">Vložen nesprávný klíč</string>
+    <string name="share">Podíl</string>
+    <string name="enter_transaction_details">Zadejte podrobnosti transakce</string>
+    <string name="enter_amount">Zadejte částku</string>
+    <string name="add_transaction">Přidat transakci</string>
+    <string name="additional_info">Zadejte další informace</string>
+    <string name="select_date">Vyberte datum</string>
+    <string name="amount_credited">Částka připsána</string>
+    <string name="no">Ne</string>
+    <string name="yes">Ano</string>
+    <string name="delete_transaction">Smazat transakci</string>
+    <string name="confirm_delete">Opravdu chcete tuto transakci smazat?</string>
+    <string name="credit">Kredit</string>
+    <string name="debit">Debet</string>
+    <string name="all_transactions">Všechny transakce</string>
+</resources>

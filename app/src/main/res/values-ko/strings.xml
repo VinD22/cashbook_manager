@@ -1,0 +1,29 @@
+<resources>
+    <string name="action_settings">설정</string>
+    <string name="about_app">현금 거래를 안전하고 안전하게 관리하는 응용 프로그램</string>
+    <string name="update_key">키 업데이트</string>
+    <string name="check_my_other_apps">다른 응용 프로그램 확인</string>
+    <string name="share_app">응용 프로그램 공유</string>
+    <string name="rate_app">응용 프로그램 평가</string>
+    <string name="enter_app_key">Enter 키</string>
+    <string name="save">구하다</string>
+    <string name="enter">입력 키</string>
+    <string name="re_enter_key">다시 입력</string>
+    <string name="empty_fields">빈 필드</string>
+    <string name="keys_should_be_same">열쇠는 같아야한다</string>
+    <string name="incorrect_key_entered">잘못된 키 입력</string>
+    <string name="share">몫</string>
+    <string name="enter_transaction_details">거래 세부 정보 입력</string>
+    <string name="enter_amount">금액 입력</string>
+    <string name="add_transaction">거래 추가</string>
+    <string name="additional_info">추가 정보 입력</string>
+    <string name="select_date">날짜 선택</string>
+    <string name="amount_credited">크레딧 금액</string>
+    <string name="no">아니</string>
+    <string name="yes">예</string>
+    <string name="delete_transaction">거래 삭제</string>
+    <string name="confirm_delete">이 거래를 삭제 하시겠습니까?</string>
+    <string name="credit">신용</string>
+    <string name="debit">차변</string>
+    <string name="all_transactions">모든 거래 창구</string>
+</resources>

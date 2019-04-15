@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+    <Button
+        android:id="@+id/add_transaction"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/add_transaction"
+        android:textColor="@color/white" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_above="@id/add_transaction"
+        android:background="@color/white"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/add_transaction"
+        android:layout_below="@id/toolbar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/transaction_details"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="20dp"
+                android:backgroundTint="@color/white"
+                android:hint="@string/enter_transaction_details"
+                android:textColor="@color/white"
+                android:textColorHint="#ededed" />
+
+            <EditText
+                android:id="@+id/amount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginStart="22dp"
+                android:layout_marginRight="22dp"
+                android:layout_marginEnd="22dp"
+                android:layout_marginTop="5dp"
+                android:backgroundTint="@color/white"
+                android:hint="@string/enter_amount"
+                android:inputType="numberDecimal"
+                android:textColor="@color/white"
+                android:textColorHint="#ededed" />
+
+            <EditText
+                android:id="@+id/additional_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginStart="22dp"
+                android:layout_marginRight="22dp"
+                android:layout_marginEnd="22dp"
+                android:layout_marginTop="5dp"
+                android:backgroundTint="@color/white"
+                android:hint="@string/additional_info"
+                android:textColor="@color/white"
+                android:textColorHint="#eaf9f9f9"
+                android:textSize="18sp" />
+
+            <Switch
+                android:id="@+id/credited_or_debited"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginStart="22dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="10dp"
+                android:background="#3acccccc"
+                android:theme="@style/MySwitch"
+                android:checked="true"
+                android:padding="15dp"
+                android:text="@string/amount_credited"
+                android:textColor="@color/white"
+                android:textColorHint="#ededed"
+                android:textOff="@string/no"
+                android:textOn="@string/yes" />
+
+            <Button
+                android:id="@+id/select_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="22dp"
+                android:layout_marginStart="22dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="15dp"
+                android:backgroundTint="@color/white"
+                android:background="@color/white"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:text="@string/select_date"
+                android:textAllCaps="false"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="18sp" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

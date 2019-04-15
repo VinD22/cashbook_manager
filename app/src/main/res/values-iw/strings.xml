@@ -1,0 +1,29 @@
+<resources>
+    <string name="action_settings">הגדרות</string>
+    <string name="about_app">יישום לניהול עסקאות במזומן שלך בצורה בטוחה ומאובטחת</string>
+    <string name="update_key">מפתח עדכון</string>
+    <string name="check_my_other_apps">בדוק יישומים אחרים</string>
+    <string name="share_app">שתף יישום</string>
+    <string name="rate_app">דרג יישום</string>
+    <string name="enter_app_key">הזן מפתח</string>
+    <string name="save">להציל</string>
+    <string name="enter">מפתח סוג</string>
+    <string name="re_enter_key">תקליד עוד פעם</string>
+    <string name="empty_fields">שדה ריק</string>
+    <string name="keys_should_be_same">המפתחות צריכים להיות זהים</string>
+    <string name="incorrect_key_entered">מפתח שגוי הוזן</string>
+    <string name="share">לַחֲלוֹק</string>
+    <string name="enter_transaction_details">הזן פרטי עסקה</string>
+    <string name="enter_amount">הכנס סכום</string>
+    <string name="add_transaction">הוסף עסקה</string>
+    <string name="additional_info">הזן פרטים נוספים</string>
+    <string name="select_date">בחר תאריך</string>
+    <string name="amount_credited">סכום הנקוב</string>
+    <string name="no">לא</string>
+    <string name="yes">כן</string>
+    <string name="delete_transaction">מחק את העסקה</string>
+    <string name="confirm_delete">האם אתה בטוח שברצונך למחוק את העסקה הזו?</string>
+    <string name="credit">אַשׁרַאי</string>
+    <string name="debit">חוֹבָה</string>
+    <string name="all_transactions">כָּל הַפְּעוּלוֹת</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="action_settings">inställningar</string>
+    <string name="about_app">En ansökan för att hantera dina kontanttransaktioner på ett säkert och säkert sätt</string>
+    <string name="update_key">Uppdateringsnyckel</string>
+    <string name="check_my_other_apps">Kontrollera andra applikationer</string>
+    <string name="share_app">Dela applikation</string>
+    <string name="rate_app">Betygsätt ansökan</string>
+    <string name="enter_app_key">Enter-tangent</string>
+    <string name="save">Spara</string>
+    <string name="enter">Typnyckel</string>
+    <string name="re_enter_key">typ igen</string>
+    <string name="empty_fields">tomt fält</string>
+    <string name="keys_should_be_same">Nycklarna borde vara samma</string>
+    <string name="incorrect_key_entered">Felaktig nyckel inmatad</string>
+    <string name="share">Dela med sig</string>
+    <string name="enter_transaction_details">Ange transaktionsdetaljer</string>
+    <string name="enter_amount">Ange belopp</string>
+    <string name="add_transaction">Lägg till transaktion</string>
+    <string name="additional_info">Ange ytterligare information</string>
+    <string name="select_date">Välj datum</string>
+    <string name="amount_credited">Belopp Krediterat</string>
+    <string name="no">Nej</string>
+    <string name="yes">Ja</string>
+    <string name="delete_transaction">Ta bort transaktion</string>
+    <string name="confirm_delete">Är du säker på att du vill radera denna transaktion?</string>
+    <string name="credit">Kreditera</string>
+    <string name="debit">Debitera</string>
+    <string name="all_transactions">alla transaktioner</string>
+</resources>

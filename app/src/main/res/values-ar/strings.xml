@@ -1,0 +1,29 @@
+<resources>
+    <string name="action_settings">إعدادات</string>
+    <string name="about_app">تطبيق لإدارة المعاملات النقدية الخاصة بك بطريقة آمنة ومأمونة</string>
+    <string name="update_key">تحديث مفتاح</string>
+    <string name="check_my_other_apps">تحقق تطبيقات أخرى</string>
+    <string name="share_app">مشاركة التطبيق</string>
+    <string name="rate_app">معدل التطبيق</string>
+    <string name="enter_app_key">مفتاح الادخال</string>
+    <string name="save">حفظ</string>
+    <string name="enter">نوع مفتاح</string>
+    <string name="re_enter_key">أعد الكتابة مرة أخرى</string>
+    <string name="empty_fields">إفراغ الميدان</string>
+    <string name="keys_should_be_same">يجب أن تكون المفاتيح نفسها</string>
+    <string name="incorrect_key_entered">تم إدخال مفتاح غير صحيح</string>
+    <string name="share">شارك</string>
+    <string name="enter_transaction_details">أدخل تفاصيل المعاملة</string>
+    <string name="enter_amount">أدخل المبلغ</string>
+    <string name="add_transaction">إضافة معاملة</string>
+    <string name="additional_info">أدخل معلومات إضافية</string>
+    <string name="select_date">حدد تاريخ</string>
+    <string name="amount_credited">المبلغ المعتمد</string>
+    <string name="no">لا</string>
+    <string name="yes">نعم فعلا</string>
+    <string name="delete_transaction">حذف المعاملة</string>
+    <string name="confirm_delete">هل تريد بالتأكيد حذف هذه المعاملة؟</string>
+    <string name="credit">ائتمان</string>
+    <string name="debit">مدين</string>
+    <string name="all_transactions">كل الحركات المالية</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="action_settings">Ayarlar</string>
+    <string name="about_app">Nakit işlemlerinizi güvenli ve güvenli bir şekilde yönetmek için bir başvuru</string>
+    <string name="update_key">Anahtarı Güncelle</string>
+    <string name="check_my_other_apps">Diğer Uygulamaları Kontrol Edin</string>
+    <string name="share_app">Başvuru Paylaşımı</string>
+    <string name="rate_app">Oran Uygulaması</string>
+    <string name="enter_app_key">Giriş anahtarı</string>
+    <string name="save">Kayıt etmek</string>
+    <string name="enter">Tip Anahtarı</string>
+    <string name="re_enter_key">Tekrar yaz</string>
+    <string name="empty_fields">Boş Alan</string>
+    <string name="keys_should_be_same">Anahtarlar aynı olmalı</string>
+    <string name="incorrect_key_entered">Girilen Yanlış Anahtar</string>
+    <string name="share">Pay</string>
+    <string name="enter_transaction_details">İşlem Ayrıntılarını Gir</string>
+    <string name="enter_amount">Miktarı girin</string>
+    <string name="add_transaction">İşlem Ekle</string>
+    <string name="additional_info">Ek Bilgi Gir</string>
+    <string name="select_date">Tarih Seçiniz</string>
+    <string name="amount_credited">Kredilendirilen Tutar</string>
+    <string name="no">Yok hayır</string>
+    <string name="yes">Evet</string>
+    <string name="delete_transaction">İşlemi Sil</string>
+    <string name="confirm_delete">Bu işlemi silmek istediğinizden emin misiniz?</string>
+    <string name="credit">Kredi</string>
+    <string name="debit">borç</string>
+    <string name="all_transactions">Tüm İşlemler</string>
+</resources>
